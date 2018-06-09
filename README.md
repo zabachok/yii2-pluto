@@ -1,6 +1,6 @@
 Pluto
 =====
-Pluto
+Shell class collection to develop layered applications
 
 Installation
 ------------
@@ -10,22 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist zabachok/yii2- "*"
+php composer.phar require --prefer-dist zabachok/yii2- "@dev"
 ```
 
 or add
 
 ```
-"zabachok/yii2-": "*"
+"zabachok/yii2-": "@dev"
 ```
 
 to the require section of your `composer.json` file.
-
-
-Usage
------
-
-Once the extension is installed, simply use it in your code by  :
-
-```php
-<?= \zabachok\pluto\AutoloadExample::widget(); ?>```

@@ -1,8 +1,8 @@
 {
     "name": "zabachok/yii2-pluto",
-    "description": "Pluto",
+    "description": "Shell class collection to develop layered applications",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2","extension", "shell", "class"],
     "license": "MIT",
     "authors": [
         {
