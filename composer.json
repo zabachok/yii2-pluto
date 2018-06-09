@@ -1,0 +1,21 @@
+{
+    "name": "zabachok/yii2-pluto",
+    "description": "Pluto",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniil Romanov",
+            "email": "repository@zabachok.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "zabachok\\pluto\\": ""
+        }
+    }
+}
