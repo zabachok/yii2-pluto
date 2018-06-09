@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist zabachok/yii2- "@dev"
+php composer.phar require --prefer-dist zabachok/yii2-pluto "@dev"
 ```
 
 or add
 
 ```
-"zabachok/yii2-": "@dev"
+"zabachok/yii2-pluto": "@dev"
 ```
 
 to the require section of your `composer.json` file.
